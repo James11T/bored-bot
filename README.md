@@ -1,0 +1,2 @@
+# BoredBot
+A simple activity measureing discord bot that outputs data in generated images. The bot measures activity in text chats and voice chats, awarding xp accordingly. The bot was used for about a year in an active server and worked perfectly collecting lots of data about the activity in the sever with many participants enjoying the leaderboards the bot provides. The bot provided 3 leaderboard, most voice time, most messages and highest level. The voice time is measured every second and the messages are measured by every message sent with a 4 second cooldown.
